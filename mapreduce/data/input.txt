@@ -1,0 +1,30 @@
+this is sample file
+my name is mayank
+this is a sample file
+sample file to run mapreduce on it
+mapreduce will output frequency of each word
+this file is created by mayank
+this is sample file
+my name is mayank
+this is a sample file
+sample file to run mapreduce on it
+mapreduce will output frequency of each word
+this file is created by mayank
+this is sample file
+my name is mayank
+this is a sample file
+sample file to run mapreduce on it
+mapreduce will output frequency of each word
+this file is created by mayank
+this is sample file
+my name is mayank
+this is a sample file
+sample file to run mapreduce on it
+mapreduce will output frequency of each word
+this file is created by mayank
+this is sample file
+my name is mayank
+this is a sample file
+sample file to run mapreduce on it
+mapreduce will output frequency of each word
+this file is created by mayank
